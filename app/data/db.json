@@ -1,0 +1,142 @@
+{
+  "navMenuItems": [
+    {
+      "id": 1,
+      "title": "File",
+      "subMenu": [
+        {
+          "id": 31,
+          "title": "NCD Tree",
+          "command": "ALT + F4"
+        },
+        {
+          "id": 32,
+          "title": "Exit",
+          "command": "ESC"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Disk"
+    },
+    {
+      "id": 3,
+      "title": "Commands"
+    }
+  ],
+  "files": [
+    {
+      "title": "Name",
+      "id": 1,
+      "items": [
+        {
+          "id": 1,
+          "name": "DN"
+        },
+        {
+          "id": 2,
+          "name": "autoexec",
+          "format": "bat"
+        },
+        {
+          "id": 3,
+          "name": "command",
+          "format": "com"
+        },
+        {
+          "id": 4,
+          "name": "config",
+          "format": "sys"
+        },
+        {
+          "id": 5,
+          "name": "Io",
+          "format": "sys"
+        },
+        {
+          "id": 6,
+          "name": "11Pro",
+          "format": "sys"
+        },
+        {
+          "id": 7,
+          "name": "Msdod",
+          "format": "sys"
+        }
+      ]
+    },
+    {
+      "title": "Name",
+      "id": 2
+    },
+    {
+      "title": "Name",
+      "id": 3
+    }
+  ],
+  "folders": [
+    {
+      "title": "TOOLS",
+      "id": 1
+    },
+    {
+      "title": "XTGOLD",
+      "id": 2
+    },
+    {
+      "title": "LAPLINK",
+      "id": 3
+    },
+    {
+      "title": "DN",
+      "id": 4
+    },
+    {
+      "title": "DOS",
+      "id": 5
+    }
+  ],
+  "controls": [
+    {
+      "id": 1,
+      "title": "Help"
+    },
+    {
+      "id": 2,
+      "title": "Menu"
+    },
+    {
+      "id": 3,
+      "title": "View"
+    },
+    {
+      "id": 4,
+      "title": "Edit"
+    },
+    {
+      "id": 5,
+      "title": "Copy"
+    },
+    {
+      "id": 6,
+      "title": "RenMov"
+    },
+    {
+      "id": 7,
+      "title": "Mkdir"
+    },
+    {
+      "id": 8,
+      "title": "Delete"
+    },
+    {
+      "id": 9,
+      "title": "PullDn"
+    },
+    {
+      "id": 10,
+      "title": "Quit"
+    }
+  ]
+}
